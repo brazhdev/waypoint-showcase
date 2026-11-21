@@ -2,7 +2,7 @@
 
 Shipment operations from a planned route to the final delivery document.
 
-[![Demo](https://img.shields.io/badge/Demo-Open-294d9b?style=flat-square)](#demo) [![Watch video](https://img.shields.io/badge/Video-Watch-334155?style=flat-square)](artifacts/portfolio/demo.mp4)
+[![Demo](https://img.shields.io/badge/Demo-Open-294d9b?style=flat-square)](https://waypoint-demo-brazhdev.pages.dev/) [![Watch video](https://img.shields.io/badge/Video-Watch-334155?style=flat-square)](artifacts/portfolio/demo.mp4)
 
 ![Operations overview](artifacts/portfolio/desktop/02-overview.png)
 
@@ -52,4 +52,4 @@ React 19, TypeScript, Vite, shadcn/ui, Tailwind CSS and MapLibre. Express, Prism
 
 ## Demo
 
-Interactive demo coming soon.
+[Open the interactive demo](https://waypoint-demo-brazhdev.pages.dev/). Choose a demo account on the sign-in screen.
